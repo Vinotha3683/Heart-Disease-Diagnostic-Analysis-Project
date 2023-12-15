@@ -26,6 +26,7 @@ You can find the dataset in the given link:
 - ST Depression Experienced by People According to their age and heart disease.
 
 **DASHBOARD**
+
 ![Dashboard 1](https://github.com/Vinotha3683/Heart-Disease-Diagnostic-Analysis-Project/assets/121660210/0733b4ee-6947-4552-8afc-0c869cadf8b1)
 
 ![Dashboard 2](https://github.com/Vinotha3683/Heart-Disease-Diagnostic-Analysis-Project/assets/121660210/e7d8c041-ac24-496c-ab3b-a84cb404e7ff)
